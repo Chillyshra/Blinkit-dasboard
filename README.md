@@ -15,4 +15,10 @@
   Source: blinkit.com
   Data on blinkit site , delivery times ,no of different sales , including low and regular fat.
 5. Highlights
-  
+   1.Total Sales by Fat Content ( Chart Type : Donut Chart )
+   2.Fat by Outlet ( Chart Type : Stacked Column Chart )
+   3.Total Sales by Item Type ( Chart Type: Bar Chart )
+   4.Total Sales by Outlet Establishment ( Chart Type : Line Chart )
+   5. Sales by Outlet Size ( Chart Type: Donut/Pie Chart)
+   6. Sales by Outlet location (Chart Type: Funnel Map)
+   7. All metric by Outlet Type ( Chart Type: Matrix Card ).
